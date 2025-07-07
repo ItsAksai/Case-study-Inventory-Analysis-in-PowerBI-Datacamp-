@@ -1,0 +1,1 @@
+COGS = [raw_material] + [factory_labor] + [factory_equipment_rent]
